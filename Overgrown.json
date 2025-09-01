@@ -58,7 +58,7 @@
       "#171a1e"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#0f1416"
+      "#101413"
     ],
     "BACKGROUND_TERTIARY": [
       "#0a0a0a"
@@ -73,7 +73,7 @@
       "#171a1e"
     ],
     "BG_BASE_TERTIARY": [
-      "#0f1416"
+      "#101413"
     ],
     "HOME_BACKGROUND": [
       "#171a1e"
@@ -91,7 +91,7 @@
       "#101a1d"
     ],
     "CARD_SECONDARY_BG": [
-      "#0c1014"
+      "#0a0a0a"
     ],
     "CHANNELS_DEFAULT": [
       "#c3efa8"
@@ -130,16 +130,16 @@
       "#88d66c"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#0f1416"
+      "#101413"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
       "#171a1e"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#0f1416"
+      "#101413"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#0f1416"
+      "#101413"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#FFFFFF1A"
@@ -196,7 +196,7 @@
       "#FFFFFF12"
     ],
     "KEYBOARD": [
-      "#0f1416"
+      "#101413"
     ],
     "BACKGROUND_MODIFIER_ACCEPT": [
       "#8fd13e33"
@@ -268,7 +268,7 @@
     "PLUM_15": "#88d66c",
     "PLUM_16": "#171a1e",
     "PLUM_17": "#182322",
-    "PLUM_18": "#0f1416",
+    "PLUM_18": "#101413",
     "PLUM_19": "#171a1e",
     "PLUM_20": "#182322",
     "PLUM_21": "#171a1e",
@@ -286,11 +286,11 @@
     "PRIMARY_530": "#88d66c",
     "PRIMARY_600": "#182322",
     "PRIMARY_630": "#171a1e",
-    "PRIMARY_645": "#0f1416",
+    "PRIMARY_645": "#101413",
     "PRIMARY_660": "#171a1e",
     "PRIMARY_700": "#0a0a0a",
     "PRIMARY_730": "#c3efa8",
-    "PRIMARY_800": "#0c1014",
+    "PRIMARY_800": "#0a0a0a",
     "GREEN_260": "#8fd13e",
     "GREEN_300": "#8fd13e",
     "GREEN_330": "#8fd13e",
