@@ -19,7 +19,7 @@
       "#88d66c"
     ],
     "BACKGROUND_FLOATING": [
-      "#0a0f14"
+      "#0a0a0a"
     ],
     "BACKGROUND_MENTIONED": [
       "rgba(114,0,0,0.1)"
@@ -31,7 +31,7 @@
       "#FFFFFF0D"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#0a0f14"
+      "#0a0a0a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#182322"
@@ -61,7 +61,7 @@
       "#0f1416"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0a0f14"
+      "#0a0a0a"
     ],
     "BG_BASE_PRIMARY": [
       "#182322"
@@ -88,7 +88,7 @@
       "#FFFFFF26"
     ],
     "CARD_PRIMARY_BG": [
-      "#0e1717"
+      "#101a1d"
     ],
     "CARD_SECONDARY_BG": [
       "#0c1014"
@@ -103,7 +103,7 @@
       "#0e1717"
     ],
     "EMBED_BACKGROUND": [
-      "#0a0f14"
+      "#0a0a0a"
     ],
     "HEADER_PRIMARY": [
       "#ffffff"
@@ -288,7 +288,7 @@
     "PRIMARY_630": "#171a1e",
     "PRIMARY_645": "#0f1416",
     "PRIMARY_660": "#171a1e",
-    "PRIMARY_700": "#0a0f14",
+    "PRIMARY_700": "#0a0a0a",
     "PRIMARY_730": "#c3efa8",
     "PRIMARY_800": "#0c1014",
     "GREEN_260": "#8fd13e",
