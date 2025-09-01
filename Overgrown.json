@@ -37,7 +37,7 @@
       "#141818"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#0f1716"
+      "#111313"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#FFFFFF12"
@@ -55,7 +55,7 @@
       "#141818"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0f1716"
+      "#111313"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#101413"
@@ -70,13 +70,13 @@
       "#000000b2"
     ],
     "BG_BASE_SECONDARY": [
-      "#0f1716"
+      "#111313"
     ],
     "BG_BASE_TERTIARY": [
       "#101413"
     ],
     "HOME_BACKGROUND": [
-      "#0f1716"
+      "#111313"
     ],
     "BORDER_FAINT": [
       "#FFFFFF12"
@@ -133,7 +133,7 @@
       "#101413"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#0f1716"
+      "#111313"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#101413"
@@ -169,10 +169,10 @@
       "#141818"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#0f1716"
+      "#111313"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#0f1716"
+      "#111313"
     ],
     "POLLS_VICTOR_FILL": [
       "#8fd13e80"
@@ -266,13 +266,13 @@
     "PLUM_11": "#c3efa8",
     "PLUM_13": "#c3efa8",
     "PLUM_15": "#88d66c",
-    "PLUM_16": "#0f1716",
+    "PLUM_16": "#111313",
     "PLUM_17": "#141818",
     "PLUM_18": "#101413",
-    "PLUM_19": "#0f1716",
+    "PLUM_19": "#111313",
     "PLUM_20": "#141818",
-    "PLUM_21": "#0f1716",
-    "PLUM_22": "#0f1716",
+    "PLUM_21": "#111313",
+    "PLUM_22": "#111313",
     "PLUM_24": "#141818",
     "PLUM_25": "#141818",
     "PRIMARY_100": "#c3efa8",
@@ -281,13 +281,13 @@
     "PRIMARY_330": "#ffffff",
     "PRIMARY_360": "#88d66c",
     "PRIMARY_400": "#4a9768",
-    "PRIMARY_460": "#0f1716",
+    "PRIMARY_460": "#111313",
     "PRIMARY_500": "#88d66c",
     "PRIMARY_530": "#88d66c",
     "PRIMARY_600": "#141818",
-    "PRIMARY_630": "#0f1716",
+    "PRIMARY_630": "#111313",
     "PRIMARY_645": "#101413",
-    "PRIMARY_660": "#0f1716",
+    "PRIMARY_660": "#111313",
     "PRIMARY_700": "#0a0a0a",
     "PRIMARY_730": "#c3efa8",
     "PRIMARY_800": "#0a0a0a",
