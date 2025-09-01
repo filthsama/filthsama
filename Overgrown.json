@@ -13,7 +13,7 @@
       "#88d66c"
     ],
     "CHAT_BACKGROUND": [
-      "#141818"
+      "#141616"
     ],
     "BACKGROUND_ACCENT": [
       "#88d66c"
@@ -34,7 +34,7 @@
       "#0a0a0a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#141818"
+      "#141616"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#111313"
@@ -52,19 +52,19 @@
       "#FFFFFF1A"
     ],
     "BACKGROUND_PRIMARY": [
-      "#141818"
+      "#141616"
     ],
     "BACKGROUND_SECONDARY": [
       "#111313"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#101413"
+      "#101212"
     ],
     "BACKGROUND_TERTIARY": [
       "#0a0a0a"
     ],
     "BG_BASE_PRIMARY": [
-      "#141818"
+      "#141616"
     ],
     "BG_BACKDROP": [
       "#000000b2"
@@ -73,7 +73,7 @@
       "#111313"
     ],
     "BG_BASE_TERTIARY": [
-      "#101413"
+      "#101212"
     ],
     "HOME_BACKGROUND": [
       "#111313"
@@ -100,7 +100,7 @@
       "#c3efa8"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#0e1717"
+      "#0e0f0f"
     ],
     "EMBED_BACKGROUND": [
       "#0a0a0a"
@@ -130,16 +130,16 @@
       "#88d66c"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#101413"
+      "#101212"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
       "#111313"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#101413"
+      "#101212"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#101413"
+      "#101212"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#FFFFFF1A"
@@ -154,7 +154,7 @@
       "#ffffff"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#0e1717"
+      "#0e0f0f"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#000000"
@@ -166,7 +166,7 @@
       "#fa5b5b"
     ],
     "STATUS_DANGER_TEXT": [
-      "#141818"
+      "#141616"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
       "#111313"
@@ -196,7 +196,7 @@
       "#FFFFFF12"
     ],
     "KEYBOARD": [
-      "#101413"
+      "#101212"
     ],
     "BACKGROUND_MODIFIER_ACCEPT": [
       "#8fd13e33"
@@ -267,14 +267,14 @@
     "PLUM_13": "#c3efa8",
     "PLUM_15": "#88d66c",
     "PLUM_16": "#111313",
-    "PLUM_17": "#141818",
-    "PLUM_18": "#101413",
+    "PLUM_17": "#141616",
+    "PLUM_18": "#101212",
     "PLUM_19": "#111313",
-    "PLUM_20": "#141818",
+    "PLUM_20": "#141616",
     "PLUM_21": "#111313",
     "PLUM_22": "#111313",
-    "PLUM_24": "#141818",
-    "PLUM_25": "#141818",
+    "PLUM_24": "#141616",
+    "PLUM_25": "#141616",
     "PRIMARY_100": "#c3efa8",
     "PRIMARY_200": "#ffffff",
     "PRIMARY_300": "#88d66c",
@@ -284,9 +284,9 @@
     "PRIMARY_460": "#111313",
     "PRIMARY_500": "#88d66c",
     "PRIMARY_530": "#88d66c",
-    "PRIMARY_600": "#141818",
+    "PRIMARY_600": "#141616",
     "PRIMARY_630": "#111313",
-    "PRIMARY_645": "#101413",
+    "PRIMARY_645": "#101212",
     "PRIMARY_660": "#111313",
     "PRIMARY_700": "#0a0a0a",
     "PRIMARY_730": "#c3efa8",
