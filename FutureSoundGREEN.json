@@ -1,11 +1,11 @@
 {
-  "name": "Sound of the Future",
-  "description": "Hatsune Miku themed colors, for green-haired believers.",
-  "version": "3",
+  "name": "Future Sound (Green ver.)",
+  "description": "Hatsune Miku themed colors for those who believe in green hair.",
+  "version": "1.0",
   "authors": [
     {
-      "name": "Your Name",
-      "id": "000000000000000000"
+      "name": "f3rnware",
+      "id": "SOUNDOFTHEFUTUREGREEN"
     }
   ],
   "semanticColors": {
